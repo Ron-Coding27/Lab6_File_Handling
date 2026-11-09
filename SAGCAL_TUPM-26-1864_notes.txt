@@ -1,0 +1,5 @@
+Student: SAGCAL
+Student ID: TUPM-26-1864
+Seed digit: 4
+ID sum: 27
+Verification value: 166
